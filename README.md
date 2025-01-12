@@ -36,33 +36,6 @@
 
 ---
 
-## How to Run
-&nbsp;&nbsp;&nbsp;&nbsp;To run Stick Bridge Builder, follow these steps:
-
-### Compile the Project:
-&nbsp;&nbsp;&nbsp;&nbsp;Open your preferred IDE (e.g., IntelliJ IDEA, Eclipse).</br>
-&nbsp;&nbsp;&nbsp;&nbsp;Compile the main source code (usually Main.java or StickBridgeBuilder.java).
-
-### Set up JavaFX:
-
-&nbsp;&nbsp;&nbsp;&nbsp;Make sure JavaFX libraries are included in your project. If not, add them manually.
-
-### Run the Game:
-
-&nbsp;&nbsp;&nbsp;&nbsp;Execute the driver class to launch the game.
-
-### Controls:
-
-&nbsp;&nbsp;&nbsp;&nbsp;Extend Stick: Press S to extend the bridge stick.</br>
-&nbsp;&nbsp;&nbsp;&nbsp;Drop Stick: Release the S key to drop the stick and form the bridge.
-
-### Gameplay: 
-
-&nbsp;&nbsp;&nbsp;&nbsp;Guide your character across platforms by forming bridges using the stick.</br>
-&nbsp;&nbsp;&nbsp;&nbsp;Collect cherries for bonus points and avoid falling into gaps.
-
----
-
 ## Game Mechanics
 
 ### Platform Generation
