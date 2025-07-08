@@ -6,8 +6,8 @@
 
 <p align="center">
   <img src="homepage.png" width="30%" />
-  <img src="mainpage.png" width="30%" />
-  <img src="endpage.png" width="30%" />
+  <img src="mainpage.jpg" width="30%" />
+  <img src="endpage.jpg" width="30%" />
 </p>
 
 
