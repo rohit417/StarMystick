@@ -14,7 +14,7 @@
 ## Video Link
 <p align="center">
   <a href="https://youtu.be/BtYMhomidV8">
-    <img src="https://img.youtube.com/vi/BtYMhomidV8/0.jpg" width="60%" />
+    <img src="thumbnail.jpg" width="60%" />
   </a>
 </p>
 
