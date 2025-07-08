@@ -3,7 +3,7 @@
 
 ---
 ## Frames of Star Mystick
-![App Home Page](HomePage.png)
+![App Home Page](homepage.png)
 
 ---
 
