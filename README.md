@@ -3,7 +3,13 @@
 
 ---
 ## Frames of Star Mystick
-![App Home Page](homepage.png)
+
+<p align="center">
+  <img src="homepage.png" width="30%" />
+  <img src="mainpage.png" width="30%" />
+  <img src="endpage.png" width="30%" />
+</p>
+
 
 ---
 
