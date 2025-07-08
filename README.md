@@ -2,6 +2,10 @@
 **Star Mystick** is a fun and interactive game where players guide a character across platforms by extending a bridge to connect the gaps between them. The game involves strategy, precision, and timing as the player adjusts the stick's length to match the gap size. Collect cherries to earn bonus points and achieve higher scores while avoiding a fall.
 
 ---
+## Frames of Star Mystick
+![App Home Page](home page mystick.png)
+
+---
 
 ## Features
 
